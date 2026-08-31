@@ -1,0 +1,14 @@
+store_id,store_name,city,province,store_type,open_date
+S01,Rumaku Kemang,Jakarta Selatan,DKI Jakarta,Flagship,2019-03-11
+S02,Rumaku Puri Indah,Jakarta Barat,DKI Jakarta,Regular,2020-07-22
+S03,Rumaku Cibubur,Jakarta Timur,DKI Jakarta,Regular,2021-01-15
+S04,Rumaku Summarecon,Bekasi,Jawa Barat,Flagship,2019-11-02
+S05,Rumaku Margonda,Depok,Jawa Barat,Regular,2022-02-18
+S06,Rumaku Dago,Bandung,Jawa Barat,Regular,2020-09-05
+S07,Rumaku BSD,Tangerang Selatan,Banten,Flagship,2018-05-30
+S08,Rumaku Pakuwon,Surabaya,Jawa Timur,Flagship,2019-08-14
+S09,Rumaku Simpang Lima,Semarang,Jawa Tengah,Regular,2021-06-09
+S10,Rumaku Sunset Road,Denpasar,Bali,Regular,2022-04-25
+S11,Rumaku Sun Plaza,Medan,Sumatera Utara,Regular,2021-10-01
+S12,Rumaku Panakkukang,Makassar,Sulawesi Selatan,Regular,2022-08-19
+S99,Rumaku Online Center,Jakarta Selatan,DKI Jakarta,Warehouse,2018-01-01

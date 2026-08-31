@@ -1,0 +1,171 @@
+product_id,product_name,category,sub_category,brand,list_price,cost_price
+P1001,Sofa 2 Seater Aurora,Sofa & Kursi,Sofa 2 Seater,Sentra Jaya,9565000,6133000.0
+P1002,Sofa 2 Seater Aurora,Sofa & Kursi,Sofa 2 Seater,Kayana,6070000,3951000.0
+P1003,Sofa 2 Seater Gading,Sofa & Kursi,Sofa 2 Seater,Rumaku Signature,5510000,3302000.0
+P1004,Sofa 3 Seater Cendana,Sofa & Kursi,Sofa 3 Seater,Nordika,9490000,5726000.0
+P1005,Sofa 3 Seater Cendana,Sofa & Kursi,Sofa 3 Seater,Sentra Jaya,8960000,5334000.0
+P1006,Sofa 3 Seater Elang,Sofa & Kursi,Sofa 3 Seater,Sentra Jaya,3770000,2268000.0
+P1007,Kursi Santai Fajar,Sofa & Kursi,Kursi Santai,Kayana,9940000,6084000.0
+P1008,Kursi Santai Fajar,Sofa & Kursi,Kursi Santai,Rumaku Signature,4600000,2701000.0
+P1009,Kursi Santai Halim,Sofa & Kursi,Kursi Santai,Ombak Living,9910000,5779000.0
+P1010,Kursi Santai Halim,Sofa & Kursi,Kursi Santai,Alunan,8765000,5024000.0
+P1011,Bean Bag Cendana,Sofa & Kursi,Bean Bag,Sentra Jaya,7530000,4324000.0
+P1012,Bean Bag Cendana,Sofa & Kursi,Bean Bag,Sentra Jaya,2990000,
+P1013,Bean Bag Halim,Sofa & Kursi,Bean Bag,Nordika,9940000,6197000.0
+P1014,Bean Bag Aurora,Sofa & Kursi,Bean Bag,Rumaku Signature,3670000,2179000.0
+P1015,Bean Bag Fajar,Sofa & Kursi,Bean Bag,Rumaku Signature,5915000,
+P1016,Kursi Makan Damar,Sofa & Kursi,Kursi Makan,Sentra Jaya,10540000,6747000.0
+P1017,Kursi Makan Halim,Sofa & Kursi,Kursi Makan,Nordika,3605000,2306000.0
+P1018,Kursi Makan Fajar,Sofa & Kursi,Kursi Makan,Nordika,7440000,4871000.0
+P1019,Kursi Makan Halim,Sofa & Kursi,Kursi Makan,Rumaku Signature,6675000,4150000.0
+P1020,Kursi Makan Elang,Sofa & Kursi,Kursi Makan,Ombak Living,8340000,5109000.0
+P1021,Meja Makan Cendana,Meja,Meja Makan,Rumaku Signature,6280000,4340000.0
+P1022,Meja Makan Bromo,Meja,Meja Makan,Nordika,5875000,3982000.0
+P1023,Meja Makan Cendana,Meja,Meja Makan,Kayana,4250000,2745000.0
+P1024,Meja Makan Gading,Meja,Meja Makan,Nordika,6150000,4017000.0
+P1025,Meja Makan Halim,Meja,Meja Makan,Nordika,4865000,3169000.0
+P1026,Meja Kerja Gading,Meja,Meja Kerja,Sentra Jaya,1110000,689000.0
+P1027,Meja Kerja Aurora,Meja,Meja Kerja,Ombak Living,1050000,746000.0
+P1028,Meja Kerja Aurora,Meja,Meja Kerja,Alunan,2185000,1446000.0
+P1029,Meja Kerja Halim,Meja,Meja Kerja,Nordika,5760000,4120000.0
+P1030,Meja Kerja Elang,Meja,Meja Kerja,Nordika,3315000,2200000.0
+P1031,Meja Kopi Fajar,Meja,Meja Kopi,Kayana,4065000,2859000.0
+P1032,Meja Kopi Gading,Meja,Meja Kopi,Rumaku Signature,6095000,4195000.0
+P1033,Meja Kopi Aurora,Meja,Meja Kopi,Sentra Jaya,4315000,2974000.0
+P1034,Meja Rias Aurora,Meja,Meja Rias,Ombak Living,1120000,715000.0
+P1035,Meja Rias Bromo,Meja,Meja Rias,Ombak Living,2970000,2137000.0
+P1036,Meja Rias Cendana,Meja,Meja Rias,Kayana,2350000,1681000.0
+P1037,Meja Rias Fajar,Meja,Meja Rias,Rumaku Signature,5410000,3624000.0
+P1038,Meja Rias Elang,Meja,Meja Rias,Ombak Living,4185000,2799000.0
+P1039,Meja TV Elang,Meja,Meja TV,Nordika,1240000,860000.0
+P1040,Meja TV Damar,Meja,Meja TV,Kayana,4730000,3011000.0
+P1041,Meja TV Gading,Meja,Meja TV,Sentra Jaya,5365000,3392000.0
+P1042,Meja TV Fajar,Meja,Meja TV,Ombak Living,1065000,715000.0
+P1043,Meja TV Fajar,Meja,Meja TV,,1735000,1091000.0
+P1044,Springbed 160x200 Fajar,Kasur & Springbed,Springbed 160x200,Nordika,13085000,8411000.0
+P1045,Springbed 160x200 Fajar,Kasur & Springbed,Springbed 160x200,Alunan,13700000,9132000.0
+P1046,Springbed 160x200 Cendana,Kasur & Springbed,Springbed 160x200,Kayana,5105000,3439000.0
+P1047,Springbed 160x200 Elang,Kasur & Springbed,Springbed 160x200,Ombak Living,8980000,6177000.0
+P1048,Springbed 180x200 Cendana,Kasur & Springbed,Springbed 180x200,Ombak Living,2635000,1758000.0
+P1049,Springbed 180x200 Gading,Kasur & Springbed,Springbed 180x200,Rumaku Signature,5675000,3798000.0
+P1050,Springbed 180x200 Fajar,Kasur & Springbed,Springbed 180x200,Ombak Living,3710000,2566000.0
+P1051,Springbed 180x200 Fajar,Kasur & Springbed,Springbed 180x200,Nordika,11295000,7187000.0
+P1052,Springbed 180x200 Damar,Kasur & Springbed,Springbed 180x200,Rumaku Signature,6170000,3976000.0
+P1053,Kasur Busa Damar,Kasur & Springbed,Kasur Busa,Kayana,9580000,6239000.0
+P1054,Kasur Busa Halim,Kasur & Springbed,Kasur Busa,Alunan,2240000,1465000.0
+P1055,Kasur Busa Aurora,Kasur & Springbed,Kasur Busa,Nordika,4040000,2564000.0
+P1056,Kasur Busa Gading,Kasur & Springbed,Kasur Busa,Sentra Jaya,6070000,3993000.0
+P1057,Kasur Busa Elang,Kasur & Springbed,Kasur Busa,Rumaku Signature,7750000,4872000.0
+P1058,Divan Gading,Kasur & Springbed,Divan,Alunan,2115000,1331000.0
+P1059,Divan Fajar,Kasur & Springbed,Divan,Ombak Living,7010000,4442000.0
+P1060,Divan Bromo,Kasur & Springbed,Divan,Ombak Living,3930000,2708000.0
+P1061,Headboard Elang,Kasur & Springbed,Headboard,Ombak Living,8300000,5526000.0
+P1062,Headboard Cendana,Kasur & Springbed,Headboard,Nordika,14970000,
+P1063,Headboard Damar,Kasur & Springbed,Headboard,Sentra Jaya,3090000,
+P1064,Headboard Bromo,Kasur & Springbed,Headboard,Sentra Jaya,14740000,
+P1065,Headboard Bromo,Kasur & Springbed,Headboard,Alunan,3285000,2142000.0
+P1066,Lemari Pakaian 2 Pintu Aurora,Lemari & Rak,Lemari Pakaian 2 Pintu,,4335000,3150000.0
+P1067,Lemari Pakaian 2 Pintu Damar,Lemari & Rak,Lemari Pakaian 2 Pintu,,5710000,
+P1068,Lemari Pakaian 2 Pintu Elang,Lemari & Rak,Lemari Pakaian 2 Pintu,Nordika,7150000,4792000.0
+P1069,Lemari Pakaian 2 Pintu Damar,Lemari & Rak,Lemari Pakaian 2 Pintu,Ombak Living,2315000,1664000.0
+P1070,Lemari Pakaian 2 Pintu Aurora,Lemari & Rak,Lemari Pakaian 2 Pintu,Alunan,890000,593000.0
+P1071,Lemari Pakaian 3 Pintu Cendana,Lemari & Rak,Lemari Pakaian 3 Pintu,Alunan,1760000,1238000.0
+P1072,Lemari Pakaian 3 Pintu Bromo,Lemari & Rak,Lemari Pakaian 3 Pintu,Nordika,3480000,2403000.0
+P1073,Lemari Pakaian 3 Pintu Halim,Lemari & Rak,Lemari Pakaian 3 Pintu,Rumaku Signature,7130000,4874000.0
+P1074,Rak Buku Aurora,Lemari & Rak,Rak Buku,Kayana,2780000,2056000.0
+P1075,Rak Buku Halim,Lemari & Rak,Rak Buku,Alunan,5450000,3802000.0
+P1076,Rak Buku Elang,Lemari & Rak,Rak Buku,Ombak Living,4110000,2765000.0
+P1077,Rak Sepatu Bromo,Lemari & Rak,Rak Sepatu,Sentra Jaya,1350000,993000.0
+P1078,Rak Sepatu Cendana,Lemari & Rak,Rak Sepatu,Nordika,1885000,1388000.0
+P1079,Rak Sepatu Cendana,Lemari & Rak,Rak Sepatu,Rumaku Signature,6290000,4574000.0
+P1080,Rak Sepatu Damar,Lemari & Rak,Rak Sepatu,Kayana,6820000,4928000.0
+P1081,Nakas Elang,Lemari & Rak,Nakas,Alunan,3905000,2772000.0
+P1082,Nakas Fajar,Lemari & Rak,Nakas,Kayana,1840000,1234000.0
+P1083,Nakas Elang,Lemari & Rak,Nakas,Sentra Jaya,7730000,
+P1084,Nakas Aurora,Lemari & Rak,Nakas,Nordika,7065000,
+P1085,Nakas Elang,Lemari & Rak,Nakas,Kayana,3190000,2107000.0
+P1086,Cermin Dinding Cendana,Dekorasi,Cermin Dinding,Kayana,310000,154000.0
+P1087,Cermin Dinding Fajar,Dekorasi,Cermin Dinding,Ombak Living,140000,78000.0
+P1088,Cermin Dinding Fajar,Dekorasi,Cermin Dinding,Sentra Jaya,200000,109000.0
+P1089,Cermin Dinding Elang,Dekorasi,Cermin Dinding,Sentra Jaya,460000,235000.0
+P1090,Cermin Dinding Fajar,Dekorasi,Cermin Dinding,Ombak Living,205000,114000.0
+P1091,Vas Keramik Halim,Dekorasi,Vas Keramik,Kayana,690000,350000.0
+P1092,Vas Keramik Bromo,Dekorasi,Vas Keramik,Rumaku Signature,1180000,620000.0
+P1093,Vas Keramik Cendana,Dekorasi,Vas Keramik,Kayana,385000,206000.0
+P1094,Vas Keramik Gading,Dekorasi,Vas Keramik,Alunan,450000,230000.0
+P1095,Vas Keramik Fajar,Dekorasi,Vas Keramik,Rumaku Signature,1180000,
+P1096,Jam Dinding Halim,Dekorasi,Jam Dinding,Rumaku Signature,405000,
+P1097,Jam Dinding Cendana,Dekorasi,Jam Dinding,Ombak Living,555000,260000.0
+P1098,Jam Dinding Damar,Dekorasi,Jam Dinding,Sentra Jaya,570000,304000.0
+P1099,Jam Dinding Fajar,Dekorasi,Jam Dinding,Rumaku Signature,150000,69000.0
+P1100,Jam Dinding Gading,Dekorasi,Jam Dinding,Rumaku Signature,1135000,611000.0
+P1101,Lukisan Kanvas Bromo,Dekorasi,Lukisan Kanvas,Sentra Jaya,1020000,
+P1102,Lukisan Kanvas Fajar,Dekorasi,Lukisan Kanvas,Ombak Living,650000,300000.0
+P1103,Lukisan Kanvas Fajar,Dekorasi,Lukisan Kanvas,Rumaku Signature,935000,492000.0
+P1104,Karpet Bromo,Dekorasi,Karpet,Sentra Jaya,725000,372000.0
+P1105,Karpet Aurora,Dekorasi,Karpet,Sentra Jaya,395000,207000.0
+P1106,Karpet Damar,Dekorasi,Karpet,Alunan,825000,439000.0
+P1107,Karpet Aurora,Dekorasi,Karpet,Nordika,1060000,555000.0
+P1108,Rak Piring Bromo,Peralatan Dapur,Rak Piring,Sentra Jaya,160000,131000.0
+P1109,Rak Piring Aurora,Peralatan Dapur,Rak Piring,,2230000,1772000.0
+P1110,Rak Piring Gading,Peralatan Dapur,Rak Piring,Rumaku Signature,1400000,1054000.0
+P1111,Rak Piring Damar,Peralatan Dapur,Rak Piring,Alunan,860000,656000.0
+P1112,Set Panci Halim,Peralatan Dapur,Set Panci,Rumaku Signature,1710000,1299000.0
+P1113,Set Panci Damar,Peralatan Dapur,Set Panci,Rumaku Signature,1100000,897000.0
+P1114,Set Panci Fajar,Peralatan Dapur,Set Panci,Alunan,2175000,
+P1115,Set Panci Aurora,Peralatan Dapur,Set Panci,Rumaku Signature,700000,551000.0
+P1116,Set Panci Elang,Peralatan Dapur,Set Panci,Ombak Living,695000,566000.0
+P1117,Kitchen Set Mini Elang,Peralatan Dapur,Kitchen Set Mini,Rumaku Signature,1890000,1512000.0
+P1118,Kitchen Set Mini Halim,Peralatan Dapur,Kitchen Set Mini,Kayana,815000,644000.0
+P1119,Kitchen Set Mini Aurora,Peralatan Dapur,Kitchen Set Mini,Alunan,870000,658000.0
+P1120,Kitchen Set Mini Gading,Peralatan Dapur,Kitchen Set Mini,Nordika,120000,94000.0
+P1121,Kitchen Set Mini Elang,Peralatan Dapur,Kitchen Set Mini,Sentra Jaya,695000,516000.0
+P1122,Tempat Bumbu Cendana,Peralatan Dapur,Tempat Bumbu,Nordika,775000,613000.0
+P1123,Tempat Bumbu Bromo,Peralatan Dapur,Tempat Bumbu,Alunan,315000,254000.0
+P1124,Tempat Bumbu Halim,Peralatan Dapur,Tempat Bumbu,Ombak Living,970000,730000.0
+P1125,Talenan Kayu Aurora,Peralatan Dapur,Talenan Kayu,Alunan,2400000,1851000.0
+P1126,Talenan Kayu Gading,Peralatan Dapur,Talenan Kayu,Sentra Jaya,1290000,961000.0
+P1127,Talenan Kayu Cendana,Peralatan Dapur,Talenan Kayu,Nordika,1340000,1055000.0
+P1128,Talenan Kayu Aurora,Peralatan Dapur,Talenan Kayu,Alunan,1830000,1391000.0
+P1129,Lampu Gantung Aurora,Pencahayaan,Lampu Gantung,Sentra Jaya,2425000,1700000.0
+P1130,Lampu Gantung Damar,Pencahayaan,Lampu Gantung,,2975000,2114000.0
+P1131,Lampu Gantung Cendana,Pencahayaan,Lampu Gantung,Rumaku Signature,2215000,1561000.0
+P1132,Lampu Gantung Damar,Pencahayaan,Lampu Gantung,Sentra Jaya,1820000,1286000.0
+P1133,Lampu Meja Halim,Pencahayaan,Lampu Meja,Nordika,1000000,745000.0
+P1134,Lampu Meja Fajar,Pencahayaan,Lampu Meja,Ombak Living,1975000,1371000.0
+P1135,Lampu Meja Cendana,Pencahayaan,Lampu Meja,Kayana,2610000,1876000.0
+P1136,Lampu Meja Gading,Pencahayaan,Lampu Meja,Rumaku Signature,1770000,1273000.0
+P1137,Lampu Meja Damar,Pencahayaan,Lampu Meja,,210000,148000.0
+P1138,Lampu Lantai Bromo,Pencahayaan,Lampu Lantai,Sentra Jaya,2980000,2101000.0
+P1139,Lampu Lantai Aurora,Pencahayaan,Lampu Lantai,Alunan,2020000,1390000.0
+P1140,Lampu Lantai Elang,Pencahayaan,Lampu Lantai,Ombak Living,1430000,1036000.0
+P1141,Downlight LED Bromo,Pencahayaan,Downlight LED,Ombak Living,335000,251000.0
+P1142,Downlight LED Halim,Pencahayaan,Downlight LED,Nordika,2395000,1809000.0
+P1143,Downlight LED Elang,Pencahayaan,Downlight LED,Nordika,3000000,2253000.0
+P1144,Downlight LED Elang,Pencahayaan,Downlight LED,Kayana,2815000,2025000.0
+P1145,Lampu Dinding Fajar,Pencahayaan,Lampu Dinding,Rumaku Signature,1880000,1313000.0
+P1146,Lampu Dinding Halim,Pencahayaan,Lampu Dinding,Alunan,140000,97000.0
+P1147,Lampu Dinding Bromo,Pencahayaan,Lampu Dinding,Rumaku Signature,1850000,1362000.0
+P1148,Lampu Dinding Gading,Pencahayaan,Lampu Dinding,Ombak Living,1455000,1012000.0
+P1149,Lampu Dinding Damar,Pencahayaan,Lampu Dinding,Sentra Jaya,1075000,756000.0
+P1150,Sprei Katun Halim,Tekstil,Sprei Katun,Ombak Living,410000,242000.0
+P1151,Sprei Katun Damar,Tekstil,Sprei Katun,Kayana,90000,45000.0
+P1152,Sprei Katun Damar,Tekstil,Sprei Katun,Ombak Living,170000,95000.0
+P1153,Bed Cover Fajar,Tekstil,Bed Cover,Sentra Jaya,1325000,
+P1154,Bed Cover Fajar,Tekstil,Bed Cover,Rumaku Signature,140000,73000.0
+P1155,Bed Cover Damar,Tekstil,Bed Cover,Rumaku Signature,845000,425000.0
+P1156,Bed Cover Gading,Tekstil,Bed Cover,Rumaku Signature,740000,373000.0
+P1157,Bed Cover Halim,Tekstil,Bed Cover,Kayana,1230000,652000.0
+P1158,Gorden Blackout Halim,Tekstil,Gorden Blackout,Kayana,1325000,753000.0
+P1159,Gorden Blackout Cendana,Tekstil,Gorden Blackout,Kayana,125000,71000.0
+P1160,Gorden Blackout Bromo,Tekstil,Gorden Blackout,Sentra Jaya,525000,268000.0
+P1161,Gorden Blackout Damar,Tekstil,Gorden Blackout,Rumaku Signature,1400000,712000.0
+P1162,Gorden Blackout Halim,Tekstil,Gorden Blackout,Sentra Jaya,405000,240000.0
+P1163,Sarung Bantal Elang,Tekstil,Sarung Bantal,Sentra Jaya,1030000,553000.0
+P1164,Sarung Bantal Halim,Tekstil,Sarung Bantal,Ombak Living,320000,181000.0
+P1165,Sarung Bantal Damar,Tekstil,Sarung Bantal,Sentra Jaya,1125000,574000.0
+P1166,Selimut Bromo,Tekstil,Selimut,Ombak Living,975000,559000.0
+P1167,Selimut Fajar,Tekstil,Selimut,Rumaku Signature,820000,
+P1168,Selimut Elang,Tekstil,Selimut,Nordika,790000,470000.0
+P1169,Selimut Elang,Tekstil,Selimut,Sentra Jaya,435000,241000.0
+P1170,Selimut Damar,Tekstil,Selimut,Ombak Living,275000,163000.0
