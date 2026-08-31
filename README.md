@@ -6,8 +6,7 @@ Analisis data untuk menjawab satu pertanyaan dari Head of Retail di awal Januari
 > menjelaskan ke direksi kenapa. Tolong cari tahu apa yang sebenarnya terjadi, dan kasih saya sesuatu
 > yang bisa saya putuskan minggu depan."
 
-Project ini adalah tugas mini project Bootcamp Data Analyst oleh Seara Data (Hari 6 — Python untuk
-Analisis Data), memakai Python (pandas, matplotlib) untuk membersihkan, menggabungkan, dan
+Project ini adalah tugas mini project Bootcamp Data Analyst oleh Seara Data, memakai Python (pandas, matplotlib) untuk membersihkan, menggabungkan, dan
 menganalisis data operasional Rumaku Home & Living periode 2024–2025.
 
 ## Pertanyaan yang dijawab
